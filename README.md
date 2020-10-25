@@ -5,7 +5,7 @@
 **Aquí**
 
 1. Abre el ipynb y aprieta el botón justo arriba del archivo "Open in Colab"
-2. Guarda la copia en la carpeta de Google Drive en la que quieras tener tu spreadsheet con tus datos de Buda.com
+2. Guarda una copia en la carpeta de Google Drive en la que quieras tener tu spreadsheet con tus datos de Buda.com
 
 **En Buda.com**
 
